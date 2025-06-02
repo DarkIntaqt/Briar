@@ -8,9 +8,7 @@ This library is currently compatible with .NET 8 and higher for Windows and MacO
 
 ## Contributors
 
-<a href="https://github.com/BlossomiShymae/Briar/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BlossomiShymae/Briar" />
-</a>
+[![](https://contrib.rocks/image?repo=BlossomiShymae/Briar)](https://github.com/BlossomiShymae/Briar/graphs/contributors)
 
 ## Usage
 
